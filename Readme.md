@@ -1,5 +1,7 @@
 Feed dat baby
 
+Use this app to track when and how much you have fed your baby.
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
